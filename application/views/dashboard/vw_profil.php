@@ -125,7 +125,7 @@
                                         <input type="text" class="form-control" id="jurusan" value="<?php echo $baris->jurusan; ?>" name="jurusan" readonly>
                                     </div>
                                     <div class="form-group mb-3">
-                                        <label for="prodi">Program Studi</label>
+                                        <label for="prodi">Program Studi Apple</label>
                                         <input type="text" class="form-control" id="prodi" value="<?php echo $baris->prodi; ?>" name="prodi" readonly>
                                     </div>
                                     <div class=" d-flex justify-content-end">
